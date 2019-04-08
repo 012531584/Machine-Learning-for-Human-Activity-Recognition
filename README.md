@@ -1,0 +1,1 @@
+# SVM-for-Human-Activity-Recognition-
