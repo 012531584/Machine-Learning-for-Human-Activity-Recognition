@@ -1,4 +1,4 @@
-# SVM-for-Human-Activity-Recognition
+# Machine-Learning-for-Human-Activity-Recognition
 
 This project attempts to search and apply effective methods to analyze and recognize human activities by the inertial signal data collected from the sensors in smartphones. We are trying to build four possible classifiers gained by Random Forest
 Tree (RF), K Nearest Neighbors (KNN), Artificial Neural Network (ANN) and Support Vector Machine (SVM) respectively. Meanwhile, exploreing how dimension reduction affect the classifier’s performance by using Principle Component Analysis (PCA). Last but not least, we try to find the best parameters of these four models with the help of cross validation.
