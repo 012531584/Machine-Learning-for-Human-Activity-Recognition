@@ -1,6 +1,7 @@
 # SVM-for-Human-Activity-Recognition
 
-This project attempts to search and apply effective methods to analyze and recognize human activities by the inertial signal data collected from the sensors in smartphones. We are trying to build a possible classifier gained by Support Vector Machine (SVM). Meanwhile, exploreing how dimension reduction affect the classifier’s performance by using Principle Component Analysis (PCA). Moreover, we try to find the best parameter of SVM with the help of cross validation, SVM with different kernels or penalty value, and find SVM with rbf kernel combining with 100 penalty value is able to provide more precise performance.
+This project attempts to search and apply effective methods to analyze and recognize human activities by the inertial signal data collected from the sensors in smartphones. We are trying to build four possible classifiers gained by Random Forest
+Tree (RF), K Nearest Neighbors (KNN), Artificial Neural Network (ANN) and Support Vector Machine (SVM) respectively. Meanwhile, exploreing how dimension reduction affect the classifier’s performance by using Principle Component Analysis (PCA). Last but not least, we try to find the best parameters of these four models with the help of cross validation.
 
 Data Description:
 
